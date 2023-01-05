@@ -1,0 +1,81 @@
+html{
+    background-color: rgb(74, 72, 72);
+    color: antiquewhite;
+}
+img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+h1 {
+    margin: 50px;
+}
+.p1 {
+    margin: 50px 50px;
+    
+}
+.div1 {
+    background-color: rgb(29, 135, 128);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: black;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+}
+    
+.p2 {
+    margin: 60px;
+}
+.div2 {
+    background-color: rgb(29, 135, 128);
+    color: black;
+    padding-bottom: 20px;
+    border-bottom: 2px solid white;
+    border-top: 2px white solid;
+}
+li {
+   font-size: 30px; 
+   color: rgb(114, 37, 114);
+}
+a {
+    text-decoration: none;
+    
+    font-size: large;
+    color: rgb(152, 172, 152);
+}
+a:hover {
+    color: rgb(145, 41, 84);
+}
+a:active {
+    color: blue;
+}
+.image1 {
+    width: 700px;
+    margin-left: 100px;
+}
+.p3 {
+margin-left: 50px;
+
+
+}
+.div3 {
+    height: 200px;
+    width: 376px;
+    overflow-y: auto;
+    border-top: solid white 5px;
+    padding-bottom: 30px;
+    background-color: rgb(201, 217, 216);
+    float: left;
+    color: black;
+}
+ul{
+    list-style: none;
+}
+.div3 ul li {
+    color: black;
+    font-size: 16px;
+    margin-right: 0;
+}
+
